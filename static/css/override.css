@@ -1,0 +1,42 @@
+* {
+    font-family: "Platypi", serif;
+}
+.container {
+    background-color: red;
+}
+.btn-warning {
+  background-color: blue !important;
+}
+.min-vh {
+    min-height: 100vh;
+}
+
+.fs-regular {
+  font-family: "Inter", serif !important;
+}
+/*a[href] {*/
+/*    colo*/
+/*}*/
+.pt-300 {
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.pt-500 {
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.wall-bg {
+    position: relative;
+}
+
+.wall--heading {
+
+    padding-left: 100px;
+    padding-top: 80px;
+}
