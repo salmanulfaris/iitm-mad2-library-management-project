@@ -2,11 +2,9 @@
     font-family: "Platypi", serif;
 }
 .container {
-    background-color: red;
+    background-color: rgb(252, 255, 218);
 }
-.btn-warning {
-  background-color: blue !important;
-}
+
 .min-vh {
     min-height: 100vh;
 }

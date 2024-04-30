@@ -7,6 +7,17 @@ Author : Salmanul Faris
 >This is App is developed in flask, vue and Bootstrap 5 as CSS framework, 
 >and SQLite as Database.
 
+## Screenshots
+<div style="width: 100%;display: inline-block">
+   <img style="float: left;width: 25%" src="screenshots/screen1.png" alt="IIT Madras MAD 1 Project">
+   <img style="float: left;width: 25%" src="screenshots/screen5.png" alt="IIT Madras MAD 1 Project">
+   <img style="float: left;width: 25%" src="screenshots/screen2.png" alt="IIT Madras MAD 1 Project">
+   <img style="float: left;width: 25%" src="screenshots/screen3.png" alt="IIT Madras MAD 1 Project">
+   <img style="float: left;width: 25%" src="screenshots/screen4.png" alt="IIT Madras MAD 1 Project">
+</div>
+
+
+
 
 #### Steps to use application
 1. Create Virtual Environment 
